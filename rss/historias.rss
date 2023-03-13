@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+
+	<channel>
+        <item>
+		<!--Elementos no variables-->
+		<title>La Nueva Superliga</title>
+		<link>https://as.com/</link>
+		<description>La empresa A22, promotora de la Superliga, anuncia en el ‘El País’ a través de su CEO, Bernd Reichart, el decálogo con el que relanza el proyecto con modificaciones.</description>
+        </item>
+		<!--articulos-->
+		<item>
+			<title>Así será el nuevo Atlético</title>
+			<link>https://as.com/</link>
+			<description>La plantilla 23-24 será algo diferente. Se mirará a la cantera y a los cedidos. Adiós a los grandes fichajes. En el horizonte Marcus Thuram, Bensebaini, Arnau Martínez, Aleix García, Guido...</description>
+		</item>
+		<item>
+			<title>Los clubes ingleses gastaron 900M€</title>
+			<link>https://as.com/</link>
+			<description>El informe FIFA sobre la última ventana de transferencias registra que el 57,3% de gasto total mundial lo realizaron los clubes de Premier y Championship. España ocupa la sexta plaza en desembolso total.</description>
+		</item>
+		
+	</channel>
+</rss>

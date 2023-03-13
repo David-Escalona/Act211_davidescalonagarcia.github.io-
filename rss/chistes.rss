@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+
+	<channel>
+        <item>
+		<!--Elementos no variables-->
+		    <title>Chiste 1</title>
+		    <link>https://www.esquire.com/es/actualidad/libros/a41340212/chistes-malos-cortos-graciosos/</link>
+		    <description>¿Que le dice un jardinero a otro? Nos vemos cuando podamos.</description>
+        </item>
+		<!--articulos-->
+		<item>
+			<title>Chiste 2</title>
+			<link>https://www.esquire.com/es/actualidad/libros/a41340212/chistes-malos-cortos-graciosos/</link>
+			<description>¿Y como se llama un boomerang que no vuelve? Palo.</description>
+		</item>
+		<item>
+			<title>Chiste 3</title>
+			<link>https://www.esquire.com/es/actualidad/libros/a41340212/chistes-malos-cortos-graciosos/</link>
+			<description>Intente organizar un torneo profesional de escondite, pero fue un completo fracaso. Los buenos jugadores son dificiles de encontrar.</description>
+		</item>
+		
+	</channel>
+</rss>
